@@ -13,6 +13,10 @@ So, how the honey pot works? Or how *should* it works?
 
 You may give it a try, but currently there is no guarantee that it can be 100% accurate.
 
+Notes
+-----
+Currently, detection speed is not fast enough and it may miss some of the fast file I/O events between detetion cycles, large files may have longer lock time as they needed more time to encrypt. Also someone told me that ransomwares likely to choose the large file to be encrypt first, therefore large "honey pot" files may be more accurate :) 
+
 Reference
 ---------
 - https://blogs.msdn.microsoft.com/oldnewthing/20120217-00/?p=8283
