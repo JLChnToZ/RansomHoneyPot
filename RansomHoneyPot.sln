@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RansomHoneyPot", "RansomHoneyPot\RansomHoneyPot.csproj", "{583C5C24-5C04-4D2E-B131-28F2E369CB20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoneyPotTest", "HoneyPotTest\HoneyPotTest.csproj", "{4ED747AB-AE5C-455C-A380-02CE608E1D70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{583C5C24-5C04-4D2E-B131-28F2E369CB20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{583C5C24-5C04-4D2E-B131-28F2E369CB20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{583C5C24-5C04-4D2E-B131-28F2E369CB20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{583C5C24-5C04-4D2E-B131-28F2E369CB20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ED747AB-AE5C-455C-A380-02CE608E1D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED747AB-AE5C-455C-A380-02CE608E1D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED747AB-AE5C-455C-A380-02CE608E1D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED747AB-AE5C-455C-A380-02CE608E1D70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
